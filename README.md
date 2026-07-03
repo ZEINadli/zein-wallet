@@ -1,3 +1,6 @@
+# Demo video
+demo: https://youtu.be/r6Of7rTbFxA?si=jbGBjN4-FFTSAOrc
+
 # Zein Wallet
 Zein Wallet adalah aplikasi dompet digital berbasis Flutter yang terintegrasi dengan **Zein Clothes Marketplace**. Aplikasi ini memungkinkan pengguna mengelola saldo secara praktis untuk melakukan transaksi pada marketplace pakaian, dengan pembaruan data secara **real-time** menggunakan Firebase.
 
