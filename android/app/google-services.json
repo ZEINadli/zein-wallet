@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894095534606",
+    "project_id": "zein-clothes-shop",
+    "storage_bucket": "zein-clothes-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894095534606:android:ee677428d9b3e212c3ea5f",
+        "android_client_info": {
+          "package_name": "com.example.gunshop_marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcgXQR1zWVMcYzmy9picYbKCPgrHihkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894095534606:android:0161431c1683783dc3ea5f",
+        "android_client_info": {
+          "package_name": "com.example.gunshop_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcgXQR1zWVMcYzmy9picYbKCPgrHihkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
