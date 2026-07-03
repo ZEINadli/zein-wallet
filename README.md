@@ -1,4 +1,4 @@
-# gunshop_wallet
+# zein-wallet
 
 A new Flutter project.
 
